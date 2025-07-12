@@ -1,0 +1,2 @@
+v2.0
+Versión inicial para KeepMoving
